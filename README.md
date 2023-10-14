@@ -33,8 +33,6 @@
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=figma" height="30" alt="figma logo"  />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=blender" height="30" alt="blender logo"  />
-  <img width="12" />
   <img src="https://cdn.simpleicons.org/discord/5865F2" height="30" alt="discord logo"  />
 </div>
 
