@@ -1,7 +1,3 @@
-<br clear="both">
-
-<img src="https://raw.githubusercontent.com/ArtusLama/ArtusLama/output/snake.svg" alt="Snake animation" />
-
 ###
 
 <h1 align="left">Hi 👋! My name is Artus and I'm a Developer and UI/UX Designer, from Germany</h1>
