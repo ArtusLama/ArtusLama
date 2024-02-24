@@ -1,4 +1,4 @@
-<h1 align="left">Hi 👋! My name is Artus and I'm a Developer and UI/UX Designer, from Germany</h1>
+<h1 align="left">Hi 👋! My name is Artus and I'm a Developer and UI/UX Designer from Germany</h1>
 
 <div align="left">
   <img src="https://skillicons.dev/icons?i=vscode" height="30" alt="vscode logo"  />
